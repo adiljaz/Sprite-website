@@ -1,0 +1,181 @@
+body{
+    width:100%;
+    margin: 0px;
+}
+
+
+.logomain{
+    position: sticky;
+    top: 0;
+    width: 100;
+    width: 100;
+    display: flex;
+    background-color:#008B47;
+    height: 14%;
+    width: 100%;
+    align-items: center;
+
+
+}
+#logo{
+    height: 50px;
+    margin-top: 20px;
+    margin-left:20px;
+
+}
+
+ ul li{
+    color: rgb(252, 253, 253);
+    list-style: none;
+    display:inline-block;
+    padding: 20px;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+    
+}
+ul li:hover{
+    color:rgb(3, 3, 3);
+}
+.a{
+background-color: rgb(3, 3, 3);
+    color: aliceblue;
+    display: flex;
+    
+
+}
+h1{
+    margin-top: 100px;
+    margin-left: 00px;
+    color:#008B47;
+    font-size:96.0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+.navbar{
+    
+    margin-left: 300px;
+    color: rgb(249, 249, 250);
+}
+.navbar i{
+    padding-left: 30px;
+    font-size: 25px;
+}
+.navbar i:hover{
+
+    color: black;
+}
+.second{
+    margin-top: 40px;
+    margin-left: 60px;
+    background-color:rgb(247, 249, 250);
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    
+    
+}
+.first-text{
+    margin-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    
+}
+.secondtext{
+    margin-left:100px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size:20px;
+    }
+    .last{
+        margin-top: 30px;
+        display:flex;
+        width:100%;
+        height: auto
+       
+    }
+    .hey h1{
+        height:50%;
+        width: 100%;
+        font-size:60px;
+        margin-left: 50px;
+        margin-top: 90px;
+        
+        
+
+    }
+    .final{
+        margin-left:100px;
+        height: 50%;
+        width:50%
+        
+    
+
+    }
+    .closing{
+        
+        background-color: #008B47;
+    }
+    .over{
+        display:flex;
+        background-color: #008B47;
+        height: auto;
+        width: 100%;
+        
+    }
+    
+        
+        
+    
+     
+     .socio{
+        height:auto;
+        width: auto;
+        color: rgb(251, 251, 252);
+        padding: 30px;
+        font-size:30px;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 70px;
+        
+        
+     }
+     .logoend{
+        height: 40px;
+        width: 200px;
+        margin-top: 50px;
+        margin-left: 300px;
+        
+        
+
+     }
+     .olist li{
+        color: rgb(251, 251, 252);
+        list-style:none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 30px;
+        margin-top: 10;
+     }
+     .footer {
+
+        display: flex;
+        background-color: #008B47;
+        
+        
+        
+     }
+     h4{
+        color: rgb(249, 251, 253);
+        
+        padding-left: 470px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+     }
+     h3{
+        color: rgb(246, 248, 250);
+        padding-left: 140px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+
+    
